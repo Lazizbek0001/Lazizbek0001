@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Lazizbek Normatov<br>🔭 I’m currently working on Python and Django<br>👯 I’m looking to collaborate on Python, Django and sometimes Dart<br>🤝 I’m looking for help with Dart and Flutter<br>🌱 I’m currently learning Python, Django, Dart and Frond-end<br>💬 Ask me about Python and Django<br>⚡ Fun fact : I can beat you in ps4 or ps5
+👋 Hi, I’m Lazizbek Normatov<br>🔭 I’m currently working on Python and Django<br>👯 I’m looking to collaborate on Python, Django and sometimes Dart<br>🤝 I’m looking for help with Dart and Flutter<br>🌱 I’m currently learning Python, Django, Dart and Frond-end<br>💬 Ask me about Python and Django<br>⚡ Fun fact : I can beat you in eFootball
 
 
 ## 🌐 Socials:
